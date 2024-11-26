@@ -7,3 +7,5 @@ An ARPG game created by Jourdan Franco and Adam Yacuk for FBLA Computer Game and
 Unreal Engine
 
 Blender
+
+Created by Jourdan Franco & Adam Yacuk
