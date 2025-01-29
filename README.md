@@ -8,4 +8,8 @@ Unreal Engine
 
 Blender
 
+Adobe Photoshop
+
+Adobe Preimere Pro
+
 Created by Jourdan Franco & Adam Yacuk
