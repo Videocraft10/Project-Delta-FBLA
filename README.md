@@ -14,4 +14,4 @@ Adobe Premiere Pro
 
 Clip Studio Paint
 
-Created by Jourdan Franco & Adam Yacuk
+Created by Jourdan Franco & Adam Yacuk @videocraft
