@@ -1,4 +1,5 @@
 ![ProjectDeltaLogoBoring](https://github.com/user-attachments/assets/b8bf398c-bff4-4e5b-9ce0-c0ac406a9425)
+
 ***Top Ten Finalist in NJFBLA SLC***
 
 ***National FBLA Competitor***
