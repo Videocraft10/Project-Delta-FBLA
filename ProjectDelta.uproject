@@ -14,6 +14,10 @@
 		{
 			"Name": "RiderSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "DaySequence",
+			"Enabled": true
 		}
 	]
 }
