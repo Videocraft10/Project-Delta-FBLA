@@ -33,4 +33,6 @@ Adobe Premiere Pro
 
 Clip Studio Paint
 
+Jet Brains Rider
+
 Created by Jourdan Franco & Adam Yacuk
