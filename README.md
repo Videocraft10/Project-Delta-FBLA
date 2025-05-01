@@ -35,4 +35,8 @@ Clip Studio Paint
 
 Jet Brains Rider
 
+#### Inspiration
+
+Inspired by Hi-Fi Rush, Zenless Zone Zero, UNBEATABLE, Darling in the Franxx, and other media.
+
 Created by Jourdan Franco & Adam Yacuk
