@@ -40,3 +40,6 @@ Jet Brains Rider
 Inspired by Hi-Fi Rush, Zenless Zone Zero, UNBEATABLE, Darling in the Franxx, and other media.
 
 Created by Jourdan Franco & Adam Yacuk
+
+### Sigma Playtesters
+Carlos Franco
