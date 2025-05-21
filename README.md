@@ -43,3 +43,4 @@ Created by Jourdan Franco & Adam Yacuk
 
 ### Sigma Playtesters
 Carlos Franco
+Coulson Conn
