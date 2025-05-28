@@ -4,7 +4,7 @@
 
 ***National FBLA Competitor***
 
-*in active delvolpment*
+*in active development*
 <br/><br/>
 
 # What is Project Delta?
@@ -41,7 +41,7 @@ Inspired by Hi-Fi Rush, Zenless Zone Zero, UNBEATABLE, Darling in the Franxx, an
 
 Created by Jourdan Franco & Adam Yacuk
 
-### Sigma Playtesters
+### Sigma Play testers
 Carlos Franco
 
 Coulson Conn
