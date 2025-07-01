@@ -4,7 +4,8 @@
 
 ***National FBLA Competitor***
 
-*in active development*
+*fbla season complete!*
+
 <br/><br/>
 
 # What is Project Delta?
