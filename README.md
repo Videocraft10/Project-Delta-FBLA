@@ -42,6 +42,9 @@ Inspired by Hi-Fi Rush, Zenless Zone Zero, UNBEATABLE, Darling in the Franxx, an
 
 Created by Jourdan Franco & Adam Yacuk
 
+### AI omg
+AI was used in the project, however, in incredibly small amounts. The only instance of AI in the game are some small billboards that the player can find. we simply didnt have enough time to make our own, so we use ai on this. EVERYTHING ELSE was hand-made, no ai at all.
+
 ### Sigma Play testers
 Carlos Franco
 
